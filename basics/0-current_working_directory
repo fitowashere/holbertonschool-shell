@@ -1,1 +1,2 @@
-/home/vagrant/holbertonschool-shell/basics
+#!/bin/bash
+pwd
