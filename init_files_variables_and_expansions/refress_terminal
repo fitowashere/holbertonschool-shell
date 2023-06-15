@@ -1,0 +1,2 @@
+#!/bin/bash
+source ~/.bashrc  # or the appropriate file for your shell
